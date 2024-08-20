@@ -16,7 +16,7 @@ This project is a web scraping and crawling application built using the Selenium
  - Next.js
 
  ## Installation
-   Clone the repository:
+   Clone the repository for the Backend:
       ```
-      git clone https://github.com/your-username/web-scraping-app.git
+      https://github.com/Elanchezhian2712/FastAPI_and_Nextjs_WebScraping_WebCrawling.git
        ```
