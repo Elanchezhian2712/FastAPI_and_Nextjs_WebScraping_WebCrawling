@@ -14,3 +14,9 @@ This project is a web scraping and crawling application built using the Selenium
  - FastAPI
  - PostgreSQL
  - Next.js
+
+ ## Installation
+   Clone the repository:
+      ```
+      git clone https://github.com/your-username/web-scraping-app.git
+       ```
