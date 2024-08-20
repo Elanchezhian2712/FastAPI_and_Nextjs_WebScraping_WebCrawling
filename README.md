@@ -20,3 +20,21 @@ This project is a web scraping and crawling application built using the Selenium
       ```
       https://github.com/Elanchezhian2712/FastAPI_and_Nextjs_WebScraping_WebCrawling.git
        ```
+
+## Create a virtual environment and activate it:
+```
+python3 -m venv env
+source env/bin/activate
+```
+
+## Install the required dependencies:
+```
+pip install -r requirements.txt
+```
+
+## Run the FastAPI server:
+```
+uvicorn main:app --reload
+```
+
+
